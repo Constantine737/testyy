@@ -1,0 +1,12 @@
+C:\Users\Krzysiek\Desktop\testy3\unit-testing-using-dotnet-test\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.deps.json
+C:\Users\Krzysiek\Desktop\testy3\unit-testing-using-dotnet-test\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.dll
+C:\Users\Krzysiek\Desktop\testy3\unit-testing-using-dotnet-test\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.pdb
+C:\Users\Krzysiek\Desktop\testy3\unit-testing-using-dotnet-test\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\Desktop\testy3\unit-testing-using-dotnet-test\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\Desktop\testy3\unit-testing-using-dotnet-test\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\Desktop\testy3\unit-testing-using-dotnet-test\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.AssemblyInfo.cs
+C:\Users\Krzysiek\Desktop\testy3\unit-testing-using-dotnet-test\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\Desktop\testy3\unit-testing-using-dotnet-test\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.dll
+C:\Users\Krzysiek\Desktop\testy3\unit-testing-using-dotnet-test\QuadraticEquation\obj\Debug\net6.0\refint\QuadraticEquation.dll
+C:\Users\Krzysiek\Desktop\testy3\unit-testing-using-dotnet-test\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.pdb
+C:\Users\Krzysiek\Desktop\testy3\unit-testing-using-dotnet-test\QuadraticEquation\obj\Debug\net6.0\ref\QuadraticEquation.dll
